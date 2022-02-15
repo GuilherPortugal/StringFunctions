@@ -1,2 +1,1 @@
 # StringFunctions
-Funções para string
